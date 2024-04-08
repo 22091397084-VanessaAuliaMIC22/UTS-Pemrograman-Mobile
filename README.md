@@ -1,4 +1,4 @@
-# testing
+# Himafortic Quiz Application
 
 A new Flutter project.
 
